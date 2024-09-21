@@ -7,3 +7,5 @@ Khi giọt nước mắt chỉ là giọt nước mắt!
 ![](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 ![](https://img.shields.io/badge/Termux-000?style=for-the-badge&logo=android)
+
+![](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=fff)
